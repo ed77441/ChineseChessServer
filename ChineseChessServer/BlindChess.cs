@@ -18,7 +18,7 @@ namespace ChineseChessServer
             InitChessPieces();
             SuffleChessPieces();
         }
-
+        /*Set chess pieces*/
         void InitChessPieces()
         {
             ColorConstants RED = ColorConstants.RED;
