@@ -1,6 +1,6 @@
 # ChineseChessServer
 
-This project is developed using `.NET winform`, final project of algorithm class
+This project is developed using `C# console application`, final project of algorithm class
 
 ## Description
 
