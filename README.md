@@ -10,11 +10,3 @@ This project is developed using `C# console application`, final project of algor
 * Because game state is stored at server, it is not possible to cheat at client end
 * Use `C#` async to listen to every single client request
 * All client will receive server shutdown message if server is being shutdown
-
-## Demo
-
-### Blind chess game state
-![Blind chess state](https://i.imgur.com/IE509KC.png)
-
-### Strategic chess game state
-![Blind chess state](https://i.imgur.com/c9m3w8K.png)
